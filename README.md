@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is your **class repo**. This repo will have everything we do/talk about in/out of class. That means that you can find _everything and anything relevant to class on here except for the workshops themselves (and even for those, we will have links._
+This is your **class repo**. This repo will have everything we do/talk about in/out of class. That means that you can find _everything and anything relevant to class on here except for the workshops themselves (and even for those, we will have links)._
 
 ### Our Stretch Repo
 
