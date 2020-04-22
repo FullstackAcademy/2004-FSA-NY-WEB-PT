@@ -1,0 +1,15 @@
+#app {
+    border: solid 2px hotpink;
+    width: 100vw;
+    height: 100vh;
+}
+
+.avatar {
+    border: solid 1px green;
+    border-radius: 50%;
+    background-image: url('https://i.pinimg.com/originals/dc/75/b9/dc75b96b4141c0a0f5d2658b084e170b.png');
+    background-size: cover;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+}
