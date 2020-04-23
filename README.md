@@ -28,10 +28,45 @@ Stretches will happen at the start of every class in Junior Phase!
         <td>
             <ul>
                 <li>
-                    <a href="https://repl.it/@HarrisTh/StrangerObject">Intro Stretch</a>
+                    <a href="https://repl.it/@DeannaWong/sortedSquaresStretch">Stretch</a>
                 </li>
                 <li>
                     <a href="https://github.com/leafoflegend/prototype_workshop">Workshop</a>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>4.22.20</b></td>
+        <td> HTML & CSS - Acme Home Page Workshop</td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://repl.it/@HarrisTh/StrangerObject">Stretch</a>
+                </li>
+                <li>
+                    <a href="https://learn.fullstackacademy.com/workshop/5d7b8f97646e4c0004c6bb67/content/5d7e9d788412020004bf9c15/text">Workshop</a>
+                </li>
+                <li>
+                    <a href="https://github.com/leafoflegend/family-tree">Homework</a>
+                </li>
+                <li>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document#Methods">Docs on Document Methods</a>
+                </li>
+                <li>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement">createElement</a>
+                </li>
+                <li>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild">cappendChild</a>
+                </li>
+                <li>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/classList">classList</a>
+                </li>
+                <li>
+                    <a href="https://github.com/FullstackAcademy/2004-FSA-NY-WEB-PT/tree/master/day_01">Code from today's lecture</a>
+                </li>
+                <li>
+                    <a href="https://code.visualstudio.com/docs/nodejs/nodejs-debugging">vscode debugger docs</a>
                 </li>
             </ul>
         </td>
