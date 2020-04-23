@@ -42,7 +42,7 @@ Stretches will happen at the start of every class in Junior Phase!
         <td>
             <ul>
                 <li>
-                    <a href="https://repl.it/@HarrisTh/StrangerObject">Stretch</a>
+                    <a href="https://repl.it/@DeannaWong/sortedSquaresStretch">Stretch</a>
                 </li>
                 <li>
                     <a href="https://learn.fullstackacademy.com/workshop/5d7b8f97646e4c0004c6bb67/content/5d7e9d788412020004bf9c15/text">Workshop</a>
@@ -57,7 +57,7 @@ Stretches will happen at the start of every class in Junior Phase!
                     <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement">createElement</a>
                 </li>
                 <li>
-                    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild">cappendChild</a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild">appendChild</a>
                 </li>
                 <li>
                     <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/classList">classList</a>
