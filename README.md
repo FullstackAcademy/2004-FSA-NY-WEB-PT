@@ -14,6 +14,8 @@ Stretches will happen at the start of every class in Junior Phase!
 
 [**GIT interactive workshop**](https://learn.fullstackacademy.com/workshop/5b59de0c9374650004add7dc/content/5b59de1a0efe540004cedf19/text)
 
+[**Lecture playlist**](https://www.youtube.com/playlist?list=PLG9PJz8IwU74RUpAk8dTKF-FzK6S8Fo8u)
+
 ### A TABLE OF EVERYTHING
 
 <table>
