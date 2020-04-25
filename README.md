@@ -87,6 +87,7 @@ Stretches will happen at the start of every class in Junior Phase!
                 <li><a href="https://flexboxfroggy.com/">Flexbox Froggy (CSS Flexbox Game)</a></li>
                 <li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Illustrated Flexbox Guide</a></li>
                 <li><a href="https://github.com/sapegin/jest-cheat-sheet">Jest Testing Cheatsheet</a></li>
+                <li><a href="https://www.netlify.com/">Netlify</a></li>
             </ul>
         </td>
     </tr>
