@@ -1,0 +1,67 @@
+body {
+    box-sizing: border-box;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+.header_container {
+    color: darkolivegreen;
+    font-style: italic;
+    text-align: center;
+    width: 100vw;
+    padding: 10px 0px;
+    border-bottom: solid 3px darkolivegreen;
+}
+
+.drink_card {
+    width: 95%;
+    min-height: 200px;
+    border: solid 5px dodgerblue;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 10px 0px;
+}
+
+.drink_avatar {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    width: 20%;
+    height: 100%;
+}
+
+.drink_image {
+    flex-grow: 1;
+    width: 100%;
+    margin: 5px;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    min-height: 100%;
+}
+
+.description_text {
+    flex-grow: 1;
+}
+
+.description_buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.description_button {
+    margin: 5px;
+}
