@@ -14,7 +14,7 @@ Stretches will happen at the start of every class in Junior Phase!
 
 [**GIT interactive workshop**](https://learn.fullstackacademy.com/workshop/5b59de0c9374650004add7dc/content/5b59de1a0efe540004cedf19/text)
 
-[**Lecture playlist**](https://www.youtube.com/playlist?list=PLG9PJz8IwU74RUpAk8dTKF-FzK6S8Fo8u)
+[**Lecture video playlist**](https://www.youtube.com/playlist?list=PLG9PJz8IwU74RUpAk8dTKF-FzK6S8Fo8u)
 
 ### A TABLE OF EVERYTHING
 
@@ -79,9 +79,6 @@ Stretches will happen at the start of every class in Junior Phase!
         <td><b>day_02: </b> Flebox - Acme Layout with Flexbox</td>
         <td>
          <ul>
-                <li>
-                    <a href="https://github.com/HypeDis/2004-stretches/tree/master/questions/01_multiply">Stretch</a>
-                </li>
                 <li><a href="https://youtu.be/YJg61nzBPZ4">Lecture Video (day_02 code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d21e8b17e342a0004519c40/content/5d21e9fc3728850004622703/text">Workshop</a></li>
                 <li><a href="https://youtu.be/dfvMt_E3Slg">Netlify & DOM video</a></li>
@@ -90,6 +87,21 @@ Stretches will happen at the start of every class in Junior Phase!
                 <li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Illustrated Flexbox Guide</a></li>
                 <li><a href="https://github.com/sapegin/jest-cheat-sheet">Jest Testing Cheatsheet</a></li>
                 <li><a href="https://www.netlify.com/">Netlify</a></li>
+            </ul>
+        </td>
+    </tr>
+         <tr>
+        <td><b>4.27.20</b></td>
+        <td><b>day_03: </b> Intro to the DOM - Acme Employees DOM
+</td>
+        <td>
+         <ul>
+                <li><a href="https://youtu.be/yk-sE9c-pSU">Lecture Video (day_03 code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d27361cb628f600042d1051/content/5d27afe778f3bc00049f9958/text">Workshop</a></li>
+                <li><a href="https://youtu.be/oqg0bqcU5eM">Git: Navigating to solution branch Video</a></li>
+                <li><a href="https://youtu.be/oqg0bqcU5eM">Git: Cleaning Master Branch Video</a></li>
+                <span>Helpful Docs/Links</span>
+                <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener">addEventListener()</a></li>
             </ul>
         </td>
     </tr>
