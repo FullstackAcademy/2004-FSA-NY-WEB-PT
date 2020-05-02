@@ -1,10 +1,16 @@
 const app = document.querySelector('#app');
 
-const state = {
+let state = {
   taskTitle: '',
   taskComplete: false,
   todos: [],
 };
+
+const localTodos = localStorage.getItem('todos');
+
+if (localTodos) {
+  state = JSON.parse(localTodos);
+}
 
 const create = (type) => document.createElement(type);
 
@@ -89,6 +95,8 @@ const createForm = () => {
 
     reset();
     render();
+
+    localStorage.setItem('todos', JSON.stringify(state));
   });
 
   formContainer.append(form);
@@ -141,3 +149,5 @@ const reset = () => {
   input.value = '';
   checkbox.checked = false;
 };
+
+render();
