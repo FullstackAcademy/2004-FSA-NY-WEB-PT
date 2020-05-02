@@ -8,9 +8,9 @@ This is your **class repo**. This repo will have everything we do/talk about in/
 
 [**Linked Here!**](https://github.com/HypeDis/2004-stretches)
 
-Stretches will happen at the start of every class in Junior Phase!
-
 ### Resources
+
+[**Toolbox**](https://learn.fullstackacademy.com/workshop/570bdee44a306c0300b78b52/content/570be2fe4a306c0300b79062/text)
 
 [**GIT interactive workshop**](https://learn.fullstackacademy.com/workshop/5b59de0c9374650004add7dc/content/5b59de1a0efe540004cedf19/text)
 
@@ -52,9 +52,6 @@ Stretches will happen at the start of every class in Junior Phase!
                 <li>
                     <a href="https://learn.fullstackacademy.com/workshop/5d7b8f97646e4c0004c6bb67/content/5d7e9d788412020004bf9c15/text">Workshop</a>
                 </li>
-                <li>
-                    <a href="https://github.com/leafoflegend/family-tree">Homework</a>
-                </li>
                 <span>Helpful Docs</span>
                 <li>
                     <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document#Methods">All Document Methods</a>
@@ -75,13 +72,23 @@ Stretches will happen at the start of every class in Junior Phase!
         </td>
     </tr>
      <tr>
+        <td></td>
+        <td><b>Homework Due: 4.27.20 </b> </td>
+        <td>
+            <ul>
+            <li><a href="https://github.com/leafoflegend/family-tree">Family Tree</a></li>
+            <li><a href="https://youtu.be/b-4A-vzVEuQ">Solution Video</a></li>
+            </ul>
+        </td>
+    </tr>
+     <tr>
         <td><b>4.25.20</b></td>
         <td><b>day_02: </b> Flebox - Acme Layout with Flexbox</td>
         <td>
          <ul>
                 <li><a href="https://youtu.be/YJg61nzBPZ4">Lecture Video (day_02 code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d21e8b17e342a0004519c40/content/5d21e9fc3728850004622703/text">Workshop</a></li>
-                <li><a href="https://youtu.be/dfvMt_E3Slg">Netlify & DOM video</a></li>
+                <li><a href="https://youtu.be/dfvMt_E3Slg">Netlify & (DOM Demo code) video</a></li>
                 <span>Helpful Docs/Links</span>
                 <li><a href="https://flexboxfroggy.com/">Flexbox Froggy (CSS Flexbox Game)</a></li>
                 <li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Illustrated Flexbox Guide</a></li>
@@ -90,18 +97,39 @@ Stretches will happen at the start of every class in Junior Phase!
             </ul>
         </td>
     </tr>
-         <tr>
+        <tr>
         <td><b>4.27.20</b></td>
         <td><b>day_03: </b> Intro to the DOM - Acme Employees DOM
-</td>
+        </td>
         <td>
          <ul>
                 <li><a href="https://youtu.be/yk-sE9c-pSU">Lecture Video (day_03 code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d27361cb628f600042d1051/content/5d27afe778f3bc00049f9958/text">Workshop</a></li>
-                <li><a href="https://youtu.be/oqg0bqcU5eM">Git: Navigating to solution branch Video</a></li>
+                <li><a href="https://youtu.be/Wxb_GgsLhy0">Git: Navigating to solution branch Video</a></li>
                 <li><a href="https://youtu.be/oqg0bqcU5eM">Git: Cleaning Master Branch Video</a></li>
                 <span>Helpful Docs/Links</span>
                 <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener">addEventListener()</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>4.29.20</b></td>
+        <td><b>day_04: </b> The Dom & Forms - Acme Customers VIP Forms
+        </td>
+        <td>
+            <ul>
+                <li><a href="https://youtu.be/Mh4YAkMI8LA">Lecture Video (day_04 code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d2e1f95c880a600045192b7/content/5d2fa058ef4d580004fd15ab/text">Workshop</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Homework Due: 5.4.20 </b> </td>
+        <td>
+            <ul>
+            <li><a href="https://learn.fullstackacademy.com/workshop/5d40e375f1aa3c000424f99e/content/5d40e3958d5c210004ef0ede/text">Acme First Second and Third</a></li>
+            <!-- <li><a href="">Solution Video</a></li> -->
             </ul>
         </td>
     </tr>
