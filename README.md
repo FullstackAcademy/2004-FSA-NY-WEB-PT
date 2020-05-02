@@ -105,7 +105,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
          <ul>
                 <li><a href="https://youtu.be/yk-sE9c-pSU">Lecture Video (day_03 code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d27361cb628f600042d1051/content/5d27afe778f3bc00049f9958/text">Workshop</a></li>
-                <li><a href="https://youtu.be/oqg0bqcU5eM">Git: Navigating to solution branch Video</a></li>
+                <li><a href="https://youtu.be/Wxb_GgsLhy0">Git: Navigating to solution branch Video</a></li>
                 <li><a href="https://youtu.be/oqg0bqcU5eM">Git: Cleaning Master Branch Video</a></li>
                 <span>Helpful Docs/Links</span>
                 <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener">addEventListener()</a></li>
