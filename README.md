@@ -150,7 +150,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         </td>
         <td>
             <ul>
-                <li><a href="https://youtu.be/1MAMCfK-FG8">Lecture Video (day_05 code)</a></li>
+                <li><a href="https://youtu.be/1MAMCfK-FG8">Lecture Video (day_06 code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5a78dd00f8936400041bdb68/landing">Workshop</a></li>
             </ul>
         </td>
