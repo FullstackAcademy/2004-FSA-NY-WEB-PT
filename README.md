@@ -129,7 +129,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         <td>
             <ul>
             <li><a href="https://learn.fullstackacademy.com/workshop/5d40e375f1aa3c000424f99e/content/5d40e3958d5c210004ef0ede/text">Acme First Second and Third</a></li>
-            <!-- <li><a href="">Solution Video</a></li> -->
+            <li><a href="https://youtu.be/5oRoIojp3gU">Solution Video</a></li>
             </ul>
         </td>
     </tr>
@@ -141,6 +141,17 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             <ul>
                 <li><a href="https://youtu.be/c59BJz54SH0">Lecture Video (day_05 code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5a3839fedc3d510004d71ed5/content/5a3839fedc3d510004d71ee4/text">Workshop</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>5.4.20</b></td>
+        <td><b>day_06: </b> Pixelate
+        </td>
+        <td>
+            <ul>
+                <li><a href="https://youtu.be/1MAMCfK-FG8">Lecture Video (day_05 code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5a78dd00f8936400041bdb68/landing">Workshop</a></li>
             </ul>
         </td>
     </tr>
