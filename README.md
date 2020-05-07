@@ -155,4 +155,15 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             </ul>
         </td>
     </tr>
+    <tr>
+        <td><b>5.6.20</b></td>
+        <td><b>day_07: </b> Practical Promises
+        </td>
+        <td>
+            <ul>
+                <li><a href="hhttps://youtu.be/e7fddbXffsg">Lecture Video (day_07 code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/558866314df3450300f4dd4c/landing">Workshop</a></li>
+            </ul>
+        </td>
+    </tr>
 </table>
