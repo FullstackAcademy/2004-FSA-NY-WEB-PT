@@ -166,4 +166,14 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             </ul>
         </td>
     </tr>
+    <tr>
+        <td></td>
+        <td><b>Homework Due: 5.11.20 </b> </td>
+        <td>
+            <ul>
+            <li><a href="https://learn.fullstackacademy.com/workshop/5d3a5009bae89400041c112a/content/5d3a501e39c5a300045f6f0c/text">Acme User Search</a></li>
+            <li><a href="https://learn.fullstackacademy.com/workshop/5da3b0a71e7ef6000481f94b/content/5da3b1185c45170004927820/text">Optional: Promize </a></li>
+            </ul>
+        </td>
+    </tr>
 </table>
