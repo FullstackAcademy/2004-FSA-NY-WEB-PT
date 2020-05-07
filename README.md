@@ -161,7 +161,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         </td>
         <td>
             <ul>
-                <li><a href="hhttps://youtu.be/e7fddbXffsg">Lecture Video (day_07 code)</a></li>
+                <li><a href="https://youtu.be/e7fddbXffsg">Lecture Video (day_07 code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/558866314df3450300f4dd4c/landing">Workshop</a></li>
             </ul>
         </td>
