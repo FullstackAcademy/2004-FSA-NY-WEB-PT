@@ -176,4 +176,14 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             </ul>
         </td>
     </tr>
+    <tr>
+        <td><b>5.9.20</b></td>
+        <td><b>day_08: </b> Acme Employee Pager
+        </td>
+        <td>
+            <ul>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d2f9a8e8584c3000447e1c5/landing">Workshop</a></li>
+            </ul>
+        </td>
+    </tr>
 </table>
