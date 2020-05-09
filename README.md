@@ -178,11 +178,13 @@ This is your **class repo**. This repo will have everything we do/talk about in/
     </tr>
     <tr>
         <td><b>5.9.20</b></td>
-        <td><b>day_08: </b> Acme Employee Pager
+        <td><b>day_08: </b> Fetch API - Acme Employee Pager
         </td>
         <td>
-            <ul>
+             <ul>
+                <li><a href="https://youtu.be/U8CZ_KVF3wQ">Lecture Video (day_08 lecture.html code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d2f9a8e8584c3000447e1c5/landing">Workshop</a></li>
+                <li><a href="https://youtu.be/yyLiyHOUyA8">Workshop Review Video (day_08 review.html code)</a></li>
             </ul>
         </td>
     </tr>

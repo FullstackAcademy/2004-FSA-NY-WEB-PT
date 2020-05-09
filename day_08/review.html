@@ -1,0 +1,80 @@
+<html>
+  <head>
+    <style>
+      body {
+        font-family: sans-serif;
+      }
+      img {
+        border-radius: 50%;
+      }
+      ul {
+        display: flex;
+        list-style-type: none;
+      }
+      li {
+        flex: 1;
+      }
+      .selected {
+        border: solid 1px black;
+      }
+    </style>
+  </head>
+  <body>
+    <ul></ul>
+    <table></table>
+    <script>
+      const renderUsers = (users) => {
+        let html = users
+          .map((user) => {
+            return `
+          <tr>
+            <td>${user.email}</td>
+            <td><img src='${user.avatar}' /></td>
+          </tr>
+        `;
+          })
+          .join('');
+        html = `
+        <thead>
+          <tr>
+            <th>Email</th>
+            <th>Avatar</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${html}
+        </tbody>
+      `;
+        document.querySelector('table').innerHTML = html;
+      };
+      const renderPager = (count, pageNumber) => {
+        const pageCount = Math.ceil(count / 50);
+        let html = '';
+        for (let i = 0; i < pageCount; i++) {
+          html += `<li class='${
+            i === pageNumber ? 'selected' : ''
+          }'><a href='#${i}'>${i + 1}</a></li>`;
+        }
+        document.querySelector('ul').innerHTML = html;
+      };
+      const render = (users, count, pageNumber) => {
+        renderUsers(users);
+        renderPager(count, pageNumber);
+      };
+      const fetchAndRender = () => {
+        const pageNumber = window.location.hash.slice(1) || '0';
+        fetch(
+          `https://acme-users-api-rev.herokuapp.com/api/users/${pageNumber}`
+        )
+          .then((response) => {
+            return response.json();
+          })
+          .then((data) => {
+            render(data.users, data.count, pageNumber * 1);
+          });
+      };
+      window.addEventListener('hashchange', fetchAndRender);
+      fetchAndRender();
+    </script>
+  </body>
+</html>
