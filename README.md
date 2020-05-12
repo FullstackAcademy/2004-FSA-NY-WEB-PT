@@ -172,6 +172,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         <td>
             <ul>
             <li><a href="https://learn.fullstackacademy.com/workshop/5d3a5009bae89400041c112a/content/5d3a501e39c5a300045f6f0c/text">Acme User Search</a></li>
+            <li><a href="https://youtu.be/OGW4VJWpGow">Acme User Search Solution Video</a></li>
             <li><a href="https://learn.fullstackacademy.com/workshop/5da3b0a71e7ef6000481f94b/content/5da3b1185c45170004927820/text">Optional: Promize </a></li>
             </ul>
         </td>
@@ -185,6 +186,17 @@ This is your **class repo**. This repo will have everything we do/talk about in/
                 <li><a href="https://youtu.be/U8CZ_KVF3wQ">Lecture Video (day_08 lecture.html code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d2f9a8e8584c3000447e1c5/landing">Workshop</a></li>
                 <li><a href="https://youtu.be/yyLiyHOUyA8">Workshop Review Video (day_08 review.html code)</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>5.11.20</b></td>
+        <td><b>day_09: </b> Promise.all - Acme Product Offerings
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/fOkVK1VDUbo">Lecture Video (day_09 lecture.html code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d37b057433f6f0004771cb7/landing">Workshop</a></li>
             </ul>
         </td>
     </tr>
