@@ -195,8 +195,19 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         </td>
         <td>
              <ul>
-                <li><a href="https://youtu.be/fOkVK1VDUbo">Lecture Video (day_09 lecture.html code)</a></li>
+                <li><a href="https://youtu.be/fOkVK1VDUbo">Lecture Video (day_09 code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d37b057433f6f0004771cb7/landing">Workshop</a></li>
+            </ul>
+        </td>
+    </tr>
+     <tr>
+        <td><b>5.13.20</b></td>
+        <td><b>day_10: </b> Acme CDN's w: Axios and Bootstrap
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/TNN0S4lW5NY">Lecture Video (day_10 code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d3b031b89a186000437ee12/landing">Workshop</a></li>
             </ul>
         </td>
     </tr>
