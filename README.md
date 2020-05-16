@@ -211,4 +211,24 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             </ul>
         </td>
     </tr>
+    <tr>
+        <td><b>5.16.20</b></td>
+        <td><b>day_11: </b> intro to React
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/41CECZXoKcg">Lecture Video (day_10 code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d3f04e87829290004dc235a/landing">Workshop</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Homework Due: 5.23.20 </b> </td>
+        <td>
+            <ul>
+            <li><a href="https://learn.fullstackacademy.com/workshop/5d43866886be2400040fc440/landing">Acme Products and Companies with React</a></li>
+            </ul>
+        </td>
+    </tr>
 </table>
