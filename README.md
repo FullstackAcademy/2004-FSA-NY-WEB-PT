@@ -217,7 +217,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         </td>
         <td>
              <ul>
-                <li><a href="https://youtu.be/41CECZXoKcg">Lecture Video (day_10 code)</a></li>
+                <li><a href="https://youtu.be/41CECZXoKcg">Lecture Video (day_11 code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d3f04e87829290004dc235a/landing">Workshop</a></li>
             </ul>
         </td>
@@ -228,6 +228,17 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         <td>
             <ul>
             <li><a href="https://learn.fullstackacademy.com/workshop/5d43866886be2400040fc440/landing">Acme Products and Companies with React</a></li>
+            </ul>
+        </td>
+    </tr>
+     <tr>
+        <td><b>5.18.20</b></td>
+        <td><b>day_12: </b> React Lifecycle & Composition - Acme Product & Company Lister
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/qcVr95yH4V8">Lecture Video (day_12 code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d425af3e9d1e50004b77fe2/landing">Workshop</a></li>
             </ul>
         </td>
     </tr>
