@@ -10,6 +10,8 @@ This is your **class repo**. This repo will have everything we do/talk about in/
 
 ### Resources
 
+[**Beaver Boilerplate**](https://github.com/leafoflegend/beaver)
+
 [**Toolbox**](https://learn.fullstackacademy.com/workshop/570bdee44a306c0300b78b52/content/570be2fe4a306c0300b79062/text)
 
 [**GIT interactive workshop**](https://learn.fullstackacademy.com/workshop/5b59de0c9374650004add7dc/content/5b59de1a0efe540004cedf19/text)
@@ -224,7 +226,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
     </tr>
     <tr>
         <td></td>
-        <td><b>Homework Due: 5.23.20 </b> </td>
+        <td><b>Homework Due: 5.27.20 </b> </td>
         <td>
             <ul>
             <li><a href="https://learn.fullstackacademy.com/workshop/5d43866886be2400040fc440/landing">Acme Products and Companies with React</a></li>
@@ -239,6 +241,20 @@ This is your **class repo**. This repo will have everything we do/talk about in/
              <ul>
                 <li><a href="https://youtu.be/qcVr95yH4V8">Lecture Video (day_12 code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d425af3e9d1e50004b77fe2/landing">Workshop</a></li>
+            </ul>
+        </td>
+    </tr>
+         <tr>
+        <td><b>5.20.20</b></td>
+        <td><b>day_13: </b> Webpack & React Router - Acme Product Offerings
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/9UFDZK-vAps">Webpack Lecture Video</a></li>
+                <li><a href="https://github.com/leafoflegend/learning_webpack">Webpack Workshop</a></li>
+                <li><a href="https://youtu.be/TZJuJj8GuL0">Webpack Workshop Review Video</a></li>
+                <li><a href="https://youtu.be/LKsJpTpT9XQ">React-Router Lecture Video</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d457b4c419b4b00049ea0dc/landing">React-Router Workshop</a></li>
             </ul>
         </td>
     </tr>
