@@ -265,6 +265,8 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         <td>
              <ul>
                 <li><a href="https://github.com/FullstackAcademy/Checkpoint-React">Practice Front End Checkpoint</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d499a253ba98e000447104b/landing">React Router Parameters - Acme Company Profits
+</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d4c684eb33bf500045e19f4/landing">Optional workshop:  Acme Product Averages with React
 </a></li>
             </ul>
