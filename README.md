@@ -250,7 +250,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         </td>
         <td>
              <ul>
-                <li><a href="https://youtu.be/9UFDZK-vAps">Webpack Lecture Video</a></li>
+                <li><a href="https://youtu.be/9UFDZK-vAps">Webpack Lecture Video (day_13 Code)</a></li>
                 <li><a href="https://github.com/leafoflegend/learning_webpack">Webpack Workshop</a></li>
                 <li><a href="https://youtu.be/TZJuJj8GuL0">Webpack Workshop Review Video</a></li>
                 <li><a href="https://youtu.be/LKsJpTpT9XQ">React-Router Lecture Video</a></li>
@@ -264,11 +264,12 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         </td>
         <td>
              <ul>
-                <li><a href="https://github.com/FullstackAcademy/Checkpoint-React">Practice Front End Checkpoint</a></li>
-                <li><a href="https://learn.fullstackacademy.com/workshop/5d499a253ba98e000447104b/landing">React Router Parameters - Acme Company Profits
-</a></li>
+                <li><a href="https://youtu.be/J1cGy0AUei0">Lecture Video (day_14 code)</li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d499a253ba98e000447104b/landing">Workshop
+                </a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d4c684eb33bf500045e19f4/landing">Optional workshop:  Acme Product Averages with React
-</a></li>
+                </a></li>
+                <li><a href="https://github.com/FullstackAcademy/Checkpoint-React">Practice Front End Checkpoint</a></li>
             </ul>
         </td>
     </tr>
