@@ -258,4 +258,16 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             </ul>
         </td>
     </tr>
+     <tr>
+        <td><b>5.27.20</b></td>
+        <td><b>day_14: </b> Parameterized Routes and ComponentDidUpdate
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://github.com/FullstackAcademy/Checkpoint-React">Practice Front End Checkpoint</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d51dd3378ab0300046fbf4b/landing0">Optional workshop: React Stateful Forms - Acme Note--taker
+</a></li>
+            </ul>
+        </td>
+    </tr>
 </table>
