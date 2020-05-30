@@ -273,4 +273,18 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             </ul>
         </td>
     </tr>
+    <tr5
+        <td><b>5.27.20</b></td>
+        <td><b>day_15: </b> React Forms and APIs
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/tPuY7KG_XWQ">Lecture Video (day_14 code)</li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d51572579d268000471f0ac/landing">Workshop : React Uncontrolled Forms - Acme Company Following
+                </a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d51dd3378ab0300046fbf4b/landing">Optional Workshop: React Stateful Forms - Acme Note--taker 
+                </a></li>
+            </ul>
+        </td>
+    </tr>
 </table>
