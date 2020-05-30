@@ -279,10 +279,10 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         </td>
         <td>
              <ul>
-                <li><a href="https://youtu.be/tPuY7KG_XWQ">Lecture Video (day_14 code)</a></li>
+                <li><a href="https://youtu.be/tPuY7KG_XWQ">Lecture Video (day_15 code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d51572579d268000471f0ac/landing">Workshop : React Uncontrolled Forms - Acme Company Following
                 </a></li>
-                <li><a href="https://learn.fullstackacademy.com/workshop/5d51dd3378ab0300046fbf4b/landing">Optional Workshop: React Stateful Forms - Acme Note--taker 
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d51dd3378ab0300046fbf4b/landing">Optional workshop: React Stateful Forms - Acme Note--taker 
                 </a></li>
             </ul>
         </td>
