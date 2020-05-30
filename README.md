@@ -264,7 +264,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         </td>
         <td>
              <ul>
-                <li><a href="https://youtu.be/J1cGy0AUei0">Lecture Video (day_14 code)</li>
+                <li><a href="https://youtu.be/J1cGy0AUei0">Lecture Video (day_14 code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d499a253ba98e000447104b/landing">Workshop
                 </a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d4c684eb33bf500045e19f4/landing">Optional workshop:  Acme Product Averages with React
@@ -273,13 +273,13 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             </ul>
         </td>
     </tr>
-    <tr
-        <td><b>5.30.20</b></td>
+    <tr>
+        <td><b>5.20.20</b></td>
         <td><b>day_15: </b> React Forms and APIs
         </td>
         <td>
              <ul>
-                <li><a href="https://youtu.be/tPuY7KG_XWQ">Lecture Video (day_14 code)</li>
+                <li><a href="https://youtu.be/tPuY7KG_XWQ">Lecture Video (day_14 code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d51572579d268000471f0ac/landing">Workshop : React Uncontrolled Forms - Acme Company Following
                 </a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d51dd3378ab0300046fbf4b/landing">Optional Workshop: React Stateful Forms - Acme Note--taker 
