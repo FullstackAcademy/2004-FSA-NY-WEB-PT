@@ -273,8 +273,8 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             </ul>
         </td>
     </tr>
-    <tr5
-        <td><b>5.27.20</b></td>
+    <tr
+        <td><b>5.30.20</b></td>
         <td><b>day_15: </b> React Forms and APIs
         </td>
         <td>
