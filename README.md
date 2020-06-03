@@ -287,4 +287,18 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             </ul>
         </td>
     </tr>
+    <tr>
+        <td><b>6.01.20</b></td>
+        <td><b>day_16: </b> Adding a Feature
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/IIgXM2shoT0">Lecture Video: Hooks and PropTypes (day_15 code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d57498742a3d300049e1041/landing">Acme Note Taker - Editing Feature
+                </a></li>
+                <li><a href="https://github.com/FullstackAcademy/flex-frontend-checkpoint-prep">Additional Practice Front End Checkpoint (optional)
+                </a></li>
+            </ul>
+        </td>
+    </tr>
 </table>
