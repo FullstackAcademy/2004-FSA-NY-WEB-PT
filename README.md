@@ -293,7 +293,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         </td>
         <td>
              <ul>
-                <li><a href="https://youtu.be/IIgXM2shoT0">Lecture Video: Hooks and PropTypes</a></li>
+                <li><a href="https://youtu.be/IIgXM2shoT0">Lecture Video: Hooks and PropTypes (day_16 code)</a></li>
                 <li><a href="https://learn.fullstackacademy.com/workshop/5d57498742a3d300049e1041/landing">Acme Note Taker - Editing Feature
                 </a></li>
                 <li><a href="https://github.com/FullstackAcademy/flex-frontend-checkpoint-prep">Additional Practice Front End Checkpoint (optional)
