@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+        <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+        <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.js'></script>
+    </head>
+    <body>
+        <div id='root'></div>
+        <script type='text/babel'>
+            class App extends React.Component {
+              constructor() {
+                super();
+                
+                this.state = {
+                  bestDog: null,
+                };
+              }
+
+              componentDidMount() {
+                axios.get('http://localhost:3000/best_dog')
+                    .then(res => {
+                      this.setState({
+                        bestDog: res.data.name,
+                      });
+                    })
+                    .catch(e => {
+                      console.log('Failed to determine the best dog.');
+                      console.error(e);
+                    });
+              }
+
+              render() {
+                const { bestDog } = this.state;
+                
+                return (
+                  <React.Fragment>
+                    <h1> Hello 2004! </h1>
+                    {
+                      bestDog && <h3> The best dog is: {bestDog} </h3>
+                    }
+                  </React.Fragment>
+                );
+              }
+            }
+            
+          ReactDOM.render(
+            <App />,
+            document.querySelector('#root')
+          );
+        </script>
+    </body>
+</html>
