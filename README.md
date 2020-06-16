@@ -303,7 +303,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
     </tr>
     <tr>
         <td><b>6.3.20</b></td>
-        <td><b>day_17: </b> Practice Checkpoint Review
+        <td>Practice Checkpoint Review
         </td>
         <td>
              <ul>
@@ -311,4 +311,54 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             </ul>
         </td>
     </tr>
+    <tr>
+        <td><b>6.8.20</b></td>
+        <td><b>day_17: </b> Node & HTTP server - Acme Guest Book
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/l2DMVYfiemA">Lecture Video (day_17 code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5c9a3a6720912f000465f606/landing">Workshop
+                </a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>6.10.20</b></td>
+        <td><b>day_18: </b> Acme Products Express GET JSON
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/HvaugQx84iM">Lecture Video (day_18 code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d5e9591b991c2000416d475/landing">Workshop
+                </a></li>
+            </ul>
+        </td>
+    </tr>
+     <tr>
+        <td><b>6.13.20</b></td>
+        <td><b>day_19: </b> Acme Companies Express POST JSON & Middleware
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/V6tBhAk-r2o">Lecture Video (day_19 code)</a></li>
+                <li><a href="https://youtu.be/aix7aTVbrJM">Beaver Boilerplate Walkthrough</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5e358f479cf4700004e2d931/landing">Workshop
+                </a></li>
+            </ul>
+        </td>
+    </tr>
+     <tr>
+        <td><b>6.15.20</b></td>
+        <td><b>day_20: </b> Acme Users Departments Postgres SQL and express
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/xfchHOf79MQ">Lecture Video (day_20 code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d62814497861e0004bc0734/landing">Workshop
+                </a></li>
+            </ul>
+        </td>
+    </tr>
+
 </table>
