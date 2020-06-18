@@ -360,5 +360,26 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             </ul>
         </td>
     </tr>
+    <tr>
+        <td><b>6.17.20</b></td>
+        <td><b>day_21: </b> Sequelize belongs to Many
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/_rKbWBvj_p4">Lecture Video (day_21 code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d6bf4faa38f37000424a16a/landing">Workshop
+                </a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Homework Due: 6.24.20 </b> </td>
+        <td>
+            <ul>
+            <li><a href="https://github.com/FullstackAcademy/Checkpoint-Sequelize">Sequelize Checkpoint</a></li>
+            </ul>
+        </td>
+    </tr>
 
 </table>
