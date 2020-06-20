@@ -348,6 +348,16 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             </ul>
         </td>
     </tr>
+    <tr>
+        <td></td>
+        <td><b>Homework Due: 6.21.20 </b> </td>
+        <td>
+            <ul>
+            <li><a href="https://learn.fullstackacademy.com/workshop/5d024f5e3cd4b70004819b77/landing">Acme Products Express</a></li>
+            <li><a href="">Solution Video</a></li>
+            </ul>
+        </td>
+    </tr>
      <tr>
         <td><b>6.15.20</b></td>
         <td><b>day_20: </b> Acme Users Departments Postgres SQL and express
@@ -374,10 +384,23 @@ This is your **class repo**. This repo will have everything we do/talk about in/
     </tr>
     <tr>
         <td></td>
-        <td><b>Homework Due: 6.24.20 </b> </td>
+        <td><b>Homework Due: 6.28.20 </b> </td>
         <td>
             <ul>
             <li><a href="https://github.com/FullstackAcademy/Checkpoint-Sequelize">Sequelize Checkpoint</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>6.20.20</b></td>
+        <td><b></b> Sequelize Many To Many and Deploying
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/N4vd0nreQvE">Lecture Video</a></li>
+                <li><a href="https://github.com/leafoflegend/deploy-2004">Lecture Code</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d6bf4faa38f37000424a16a/landing">Workshop
+                </a></li>
             </ul>
         </td>
     </tr>
