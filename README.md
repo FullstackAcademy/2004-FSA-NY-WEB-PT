@@ -354,7 +354,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         <td>
             <ul>
             <li><a href="https://learn.fullstackacademy.com/workshop/5d024f5e3cd4b70004819b77/landing">Acme Products Express</a></li>
-            <li><a href="">Solution Video</a></li>
+            <li><a href="https://youtu.be/CyOVKSXzRM8">Solution Video</a></li>
             </ul>
         </td>
     </tr>
