@@ -384,7 +384,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
     </tr>
     <tr>
         <td></td>
-        <td><b>Homework Due: 6.28.20 </b> </td>
+        <td><b>Homework Due: 6.27.20 </b> </td>
         <td>
             <ul>
             <li><a href="https://github.com/FullstackAcademy/Checkpoint-Sequelize">Sequelize Checkpoint</a></li>
