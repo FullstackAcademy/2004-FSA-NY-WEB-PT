@@ -1,0 +1,23 @@
+{
+  "name": "day_23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "DATABASE_URL=postgres://localhost:5432/2004_day_23_test jest -i",
+    "test:watch": "DATABASE_URL=postgres://localhost:5432/2004_day_23_test jest -i --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "pg": "^8.2.1",
+    "sequelize": "^5.21.13"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "supertest": "^4.0.2"
+  }
+}
