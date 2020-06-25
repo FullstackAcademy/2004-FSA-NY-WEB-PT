@@ -404,5 +404,40 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             </ul>
         </td>
     </tr>
+    <tr>
+        <td><b>6.22.20</b></td>
+        <td><b></b> Testing
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/PHIFf7dJIIA">Lecture Video (day_23 code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d1532fec744f90004e6307f/landing">Workshop
+                </a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>6.24.20</b></td>
+        <td><b></b> Redux
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/S1oEE83QxgQ">Lecture Video</a></li>
+                <li><a href="https://github.com/FullstackAcademy/redux-demo-2004">Lecture Code</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d755a5fd6f7030004afefd9/landing">Workshop
+                </a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Homework Due: 7.4.20 </b> </td>
+        <td>
+            <ul>
+            <li><a href="https://learn.fullstackacademy.com/workshop/5d1baa1dea5a72000494ba82/landing">Acme Products - Redux Style</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
 
 </table>
