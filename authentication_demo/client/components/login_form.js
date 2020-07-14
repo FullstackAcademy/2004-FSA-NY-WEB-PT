@@ -6,21 +6,41 @@ class LoginForm extends Component {
   constructor() {
     super();
 
-    const { username, password } = store.getState();
+    const { username, password, loggedIn } = store.getState();
 
     this.state = {
       username,
       password,
+      loggedIn,
     };
 
     store.subscribe(() => {
-      const { username, password } = store.getState();
+      const { username, password, loggedIn } = store.getState();
 
       this.setState({
         username,
         password,
+        loggedIn,
       });
     });
+  }
+
+  componentDidMount() {
+    const { history } = this.props;
+    const { loggedIn } = this.state;
+
+    if (loggedIn) {
+      history.push('/account');
+    }
+  }
+
+  componentDidUpdate() {
+    const { history } = this.props;
+    const { loggedIn } = this.state;
+
+    if (loggedIn) {
+      history.push('/account');
+    }
   }
 
   onChange = ({ target: { name, value } }) => {

@@ -15,6 +15,28 @@ const parseCookie = (cookieStr) => {
     }, {});
 }
 
+// We are going to convert a string, into another string.
+const hash = (str) => {
+  let hashedStr = '';
+
+  for (let i = 0; i < str.length; ++i) {
+    hashedStr += str.charCodeAt(i) * 420;
+  }
+
+  return hashedStr;
+}
+
+const salt = (str) => {
+  return str + process.env.SALT;
+}
+
+const saltAndHash = (str) => {
+  return hash(salt(str));
+}
+
 module.exports = {
   parseCookie,
+  hash,
+  salt,
+  saltAndHash,
 }

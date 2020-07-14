@@ -1,9 +1,10 @@
-import { UPDATE_FORM, SET_LOGGED_IN } from './actions';
+import { UPDATE_FORM, SET_LOGGED_IN, INITIAL_LOADING_COMPLETE } from './actions';
 
 const initialState = {
   username: '',
   password: '',
   loggedIn: false,
+  initialLoadingComplete: false,
 };
 
 const reducer = (state = initialState, action) => {
@@ -19,6 +20,11 @@ const reducer = (state = initialState, action) => {
         username: '',
         password: '',
         loggedIn: true,
+      };
+    case INITIAL_LOADING_COMPLETE:
+      return {
+        ...state,
+        initialLoadingComplete: true,
       };
     default:
       return state;
