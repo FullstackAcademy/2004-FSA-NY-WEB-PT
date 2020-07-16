@@ -5,14 +5,28 @@ const cookieParser = require('cookie-parser');
 const app = require('./server');
 const routes = require('./routes/index');
 const { models: { Session, User } } = require('../db/index');
+const { asyncMemoize } = require('../utils/index');
 
 const PORT = process.env.PORT || 3000;
 const PUBLIC_PATH = path.join(__dirname, '../../public');
 const DIST_PATH = path.join(__dirname, '../../dist');
 
+const findUserBySession = (sessionId) => User.findOne({
+  include: [
+    {
+      model: Session,
+      where: {
+        id: sessionId,
+      },
+    },
+  ],
+});
+
+const memoizedFindUserBySessionId = asyncMemoize(findUserBySession);
+
 app.use(cookieParser());
 app.use(async (req, res, next) => {
-  console.log('Cookie: ', req.cookies);
+  // console.log('Cookie: ', req.cookies);
 
   if (!req.cookies.session_id) {
     const session = await Session.create();
@@ -30,18 +44,11 @@ app.use(async (req, res, next) => {
   } else {
     req.session_id = req.cookies.session_id;
 
-    const user = await User.findOne({
-      include: [
-        {
-          model: Session,
-          where: {
-            id: req.session_id,
-          },
-        },
-      ],
-    });
+    console.time('Find User in DB by Session');
+    const user = await memoizedFindUserBySessionId(req.session_id);
+    console.timeEnd('Find User in DB by Session');
 
-    console.log('Session User: ', user.get());
+    // console.log('Session User: ', user.get());
 
     if (user) {
       req.user = user;
