@@ -439,5 +439,114 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         </td>
     </tr>
     <tr>
+    <tr>
+        <td><b>6.27.20</b></td>
+        <td><b></b> Redux part 2
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/CoGGCSX3CnI">Lecture Video (day_24 code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/591afa65ea826100040fdd55/landing">Workshop
+                </a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>6.29.20</b></td>
+        <td><b></b> React-Redux with Thunks
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/yBBnD5xbZXU">Lecture Video (day_25 code)</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5d77ad9ef127570004321798/landing">Workshop
+                </a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>7.1.20 & 7.6.20</b></td>
+        <td><b></b> Fullstack Application
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/sQsMuGdpoFw">Redux Stretch Review</a></li>
+                <li><a href="https://learn.fullstackacademy.com/workshop/5e77689e871b4600044d3259/landing">Acme Bakery
+                </a></li>
+            </ul>
+        </td>
+    </tr>
+     <tr>
+        <td><b>7.11.20</b></td>
+        <td><b></b> Authentication
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/7KYb8woKTrE">Lecture video (authentication_demo Code)</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>7.13.20</b></td>
+        <td><b></b> Authentication Part 2
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/c7iVHtACOeg">Lecture video (authentication_demo Code)</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>7.15.20</b></td>
+        <td><b></b> Caching
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/t2Z3pX-DjXw">Senior Checkpoint Review</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>7.18.20</b></td>
+        <td><b></b>Senior Checkpoint Review
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/oj1-m8zTv6s">Review Video</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>7.22.20</b></td>
+        <td><b></b> Github Workflow
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/r-op_jrJe9k">Lecture Video</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>7.25.20</b></td>
+        <td><b></b> Intro to Graceshopper
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/lRDxlH8zLl4">Lecture Video</a></li>
+            </ul>
+        </td>
+    </tr>
+        <tr>
+        <td><b>7.27.20</b></td>
+        <td><b></b> CI/CD (Travis)
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/9xjg8e0FbY0">Lecture Video</a></li>
+            </ul>
+            <ul>
+                <li><a href="https://github.com/leafoflegend/2004_ci_demo">Lecture Code</a></li>
+            </ul>
+        </td>
+    </tr>
 
 </table>
