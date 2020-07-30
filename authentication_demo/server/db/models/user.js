@@ -1,5 +1,6 @@
 const { STRING, UUID, UUIDV4 } = require('sequelize');
 const db = require('./db');
+const { saltAndHash } = require('../../utils/index');
 
 const User = db.define('user', {
   id: {
@@ -22,6 +23,12 @@ const User = db.define('user', {
       notEmpty: true,
     },
   },
+}, {
+  hooks: {
+    beforeCreate(attributes) {
+      attributes.password = saltAndHash(attributes.password);
+    },
+  }
 });
 
 module.exports = User;

@@ -26,7 +26,7 @@ const memoizedFindUserBySessionId = asyncMemoize(findUserBySession);
 
 app.use(cookieParser());
 app.use(async (req, res, next) => {
-  // console.log('Cookie: ', req.cookies);
+  console.log('Cookie: ', req.cookies);
 
   if (!req.cookies.session_id) {
     const session = await Session.create();

@@ -1,8 +1,73 @@
 const { Router } = require('express');
+const axios = require('axios');
+const chalk = require('chalk');
 const { models: { User, Session } } = require('../../db/index');
 const { saltAndHash } = require('../../utils/index');
 
 const apiRouter = Router();
+
+const GITHUB_AUTH_URL = 'https://github.com/login/oauth/authorize';
+const GITHUB_CALLBACK_URL = '/github_login';
+const GITHUB_ACCESS_URL = 'https://github.com/login/oauth/access_token';
+const GITHUB_PROFILE_URL = 'https://api.github.com/user';
+
+apiRouter.get('/github', (req, res) => {
+  res.redirect(`${GITHUB_AUTH_URL}?client_id=${process.env.GITHUB_CLIENT_ID}`);
+});
+
+apiRouter.get(GITHUB_CALLBACK_URL, async (req, res) => {
+  const { code } = req.query;
+
+  try {
+    const axiosRes = await axios.post(`${GITHUB_ACCESS_URL}?client_id=${process.env.GITHUB_CLIENT_ID}&client_secret=${process.env.GITHUB_CLIENT_SECRET}&code=${code}`)
+
+    const data = axiosRes.data;
+
+    const dataKeyVals = data
+      .split('&')
+      .reduce((keyVals, keyValString) => {
+        const [key, val] = keyValString.split('=');
+
+        return {
+          ...keyVals,
+          [key]: val,
+        };
+      }, {});
+
+    const mySession = await Session.findByPk(req.session_id);
+
+    await mySession.update({
+      oauth_access_token: dataKeyVals.access_token,
+    });
+
+    res.sendStatus(200);
+  } catch (e) {
+    console.log(chalk.red('Failed to authenticate with GitHub.'));
+    console.error(e);
+
+    res.sendStatus(500);
+  }
+});
+
+apiRouter.get('/github_profile', async (req, res) => {
+  const { oauth_access_token } = await Session.findByPk(req.session_id);
+
+  if (!oauth_access_token) res.sendStatus(401);
+  else {
+    const profileInfo = await axios.get(GITHUB_PROFILE_URL, {
+      headers: {
+        Authorization: `token ${oauth_access_token}`,
+        Accept: 'application/json',
+      },
+    });
+
+    const { data } = profileInfo;
+
+    console.log('Github Profile: ', data);
+
+    res.send(data);
+  }
+});
 
 apiRouter.post('/login', async (req, res) => {
   console.log('Login Request: ', req.body);
@@ -46,14 +111,12 @@ apiRouter.get('/whoami', (req, res) => {
 apiRouter.post('/signup', async (req, res) => {
   const { username, password } = req.body;
 
-  const hashedPassword = saltAndHash(password);
-
   try {
     const session = await Session.findByPk(req.session_id)
 
     const createdUser = await User.create({
       username,
-      password: hashedPassword,
+      password,
     });
 
     await session.setUser(createdUser);
