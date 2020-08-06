@@ -548,5 +548,44 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             </ul>
         </td>
     </tr>
+    <tr>
+        <td><b>7.29.20</b></td>
+        <td><b></b> OAuth
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/pDVXJ_Y240s">Lecture Video</a></li>
+            </ul>
+            <ul>
+                <li><a href="https://github.com/FullstackAcademy/2004-FSA-NY-WEB-PT/tree/master/authentication_demo">Lecture Code</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>8.01.20</b></td>
+        <td><b></b> Stacks, Queue and LinkedList
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/b4_zb5b_oiQ">Lecture Video</a></li>
+            </ul>
+            <ul>
+                <li><a href="https://github.com/leafoflegend/2004_stacks_queues_linked_lists">Lecture Code</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>8.5.20</b></td>
+        <td><b></b> Binary Search Trees
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://youtu.be/pABT6D29gx4">Lecture Video</a></li>
+            </ul>
+            <ul>
+                <li><a href="https://github.com/leafoflegend/2004_bst">Lecture Code</a></li>
+            </ul>
+        </td>
+    </tr>
 
 </table>
