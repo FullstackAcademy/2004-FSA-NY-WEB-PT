@@ -587,5 +587,55 @@ This is your **class repo**. This repo will have everything we do/talk about in/
             </ul>
         </td>
     </tr>
+    <tr>
+        <td><b>8.10.20</b></td>
+        <td><b></b> SOCKETS
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://www.youtube.com/watch?v=0twpijtpEiA&list=PLG9PJz8IwU74RUpAk8dTKF-FzK6S8Fo8u&index=53">Lecture Video</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>8.29.20</b></td>
+        <td><b></b> Typescript
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://www.youtube.com/watch?v=BzUKDTHQaMs&list=PLG9PJz8IwU74RUpAk8dTKF-FzK6S8Fo8u&index=51">Lecture Video</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>9.02.20</b></td>
+        <td><b></b>SOLID
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://www.youtube.com/watch?v=xxKIstMXbqc&list=PLG9PJz8IwU74RUpAk8dTKF-FzK6S8Fo8u&index=52">Lecture Video</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>9.09.20</b></td>
+        <td><b></b>AGILE
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://www.youtube.com/watch?v=9Jqy5puvxew&list=PLG9PJz8IwU74RUpAk8dTKF-FzK6S8Fo8u&index=54">Lecture Video</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><b>9.19.20</b></td>
+        <td><b></b>REDIS
+        </td>
+        <td>
+             <ul>
+                <li><a href="https://www.youtube.com/watch?v=WHx5BmfW6_w&list=PLG9PJz8IwU74RUpAk8dTKF-FzK6S8Fo8u&index=56">Lecture Video</a></li>
+            </ul>
+        </td>
+    </tr>
 
 </table>
